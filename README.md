@@ -1,6 +1,6 @@
 
 
-
+DONE BY PERPLEXITY USING CLAUDE
 
 Tableau de Bord ETF Interactif
 Construis un tableau de bord interactif en ligne classant les 10 meilleurs ETF depuis 1993 par performance annualisée nette, avec filtres sur frais annuels, secteur, date de lancement, et graphiques comparatifs de rendements historiques pour SPY, VTI, QQQ, IVV, VOO
